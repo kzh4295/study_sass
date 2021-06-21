@@ -1,3 +1,1 @@
-# study_sassㄴㄴㄴ
-BB
-d
+# study_sass
